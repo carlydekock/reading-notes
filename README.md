@@ -1,5 +1,3 @@
-#Carly's reading notes for Code Fellows
-
 ## Explain growth mindset
 Dedication to learning, belief in myself that I can continue to learn and develop through perserverance and effort. 
 
