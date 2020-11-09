@@ -12,4 +12,4 @@ I'm
 
 ## Carly's Reading Notes for Code Fellows
 ### Table of Contents
-- [Markup](https://github.com/carlydekock/reading-notes/blob/main/markdown.md)
+- [Markdown](https://github.com/carlydekock/reading-notes/blob/main/markdown.md)
