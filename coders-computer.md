@@ -30,4 +30,5 @@ In general, what is a text editor? A piece of software that allows you to write 
 
 ## Difference between Text Editors and IDEs
 Text Editor: edit text, manage tex, and manage files. 
+
 IDE (Integrated Development Environment): a text editor, a file manager, a compiler, and a debugger all in one package.
