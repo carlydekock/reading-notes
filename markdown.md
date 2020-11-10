@@ -48,7 +48,7 @@ We can also insert and display images using the following code:
 ### Links
 We can insert links as well. Using the following code:
 [Text to appear](URl to link)
-For example, here's a great guide for [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+For example, here's a great guide for [mastering markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Quotes
 We can include quotes like this one by Eleanor Roosevelt:
@@ -77,3 +77,8 @@ First Header | Second Header | Third Header
 ------ | ------ | ------
 Content from cell 1 | Cell 2 | Cell 3
 Content in first column | second column | third column
+
+
+
+Back to Home Page.
+[<==Back](README.md)
