@@ -1,15 +1,13 @@
-This is where I will put my reading notes for revisions in the cloud reading, or class 3 reading.
-
 # Revisions and the Cloud
 
 #### Terms and Definitions
-- Version Control: system that allows you to revisit various versions of a file (or set of files) by recording changes
-- Local: On your own computer, on your personal hard disk where files and changes are stored
-- Centralized Version Control System (CVCS): single server storing all changes and file versions, can be accessed by various people. CVS can present an issue in that it is a single point of failure, risks work being lost.
-- Distributed Version Control System (DVCS): this allows you to create mirrored repositories, allows teams to work together and collaborate
-- Git: A DVCS that stores data in a file system made up of snapshots or changes made. Git mostly relies on local operations, allows for process expediency, and allowing for work on a project even when not online or on a VPN. 
-- Commit: When you save a changed version of your project
-- States: Files in Git can reside in three main states:
+- **Version Control**: system that allows you to revisit various versions of a file (or set of files) by recording changes
+- **Local**: On your own computer, on your personal hard disk where files and changes are stored
+- **Centralized Version Control System (CVCS)**: single server storing all changes and file versions, can be accessed by various people. CVS can present an issue in that it is a single point of failure, risks work being lost.
+- **Distributed Version Control System (DVCS)**: this allows you to create mirrored repositories, allows teams to work together and collaborate
+- **Git**: A DVCS that stores data in a file system made up of snapshots or changes made. Git mostly relies on local operations, allows for process expediency, and allowing for work on a project even when not online or on a VPN. 
+- **Commit**: When you save a changed version of your project
+- **States**: Files in Git can reside in three main states:
   - Committed: data is securely stored in a local database
   - Modified: file has been change but not yet committed
   - Staged: Flagged a file's changed version, yet to be committed
