@@ -4,7 +4,7 @@
 Growth mindset is a dedication to learning, belief in myself that I can continue to learn and develop through perserverance and effort. You can read a bit more about it [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset). 
 
 Atlassian defintes the growth mindset as:
-> A grwoth mindset believes that one's fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+> A growth mindset believes that one's fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 ## Reminders to myself of how to keep in a growth mindset:
 1. Remember to ask for help, it's ok to not know the answer right away.
