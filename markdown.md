@@ -38,3 +38,15 @@ There is one specific way to create ordered lists:
 We can also insert and display images using the following code:
 ![Image Name](URL to image)
 ![CodeFellowsLogo](https://miro.medium.com/max/1200/1*MghnV-Q6kiAeO-ZQQreitA.png)
+
+### Links
+We can insert links as well. Using the following code:
+[Text to appear](URl to link)
+For example, here's a great guide for [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+
+### Quotes
+We can include quotes like this one by Eleanor Roosevelt:
+> Do one thing every day that scares you.
+
+### Inline Code
+We can include code text in our documents as well. We might need a '<p>' element here. 
