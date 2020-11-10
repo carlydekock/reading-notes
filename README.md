@@ -20,3 +20,4 @@ I'm Carly. I'm just learning to code, and am looking forward to the journey! You
 ## Carly's Reading Notes for Code Fellows
 ### Table of Contents
 - [Markdown](https://github.com/carlydekock/reading-notes/blob/main/markdown.md)
+- [Coder's Computer](https://github.com/carlydekock/reading-notes/blob/main/coders-computer.md)
