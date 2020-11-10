@@ -49,4 +49,25 @@ We can include quotes like this one by Eleanor Roosevelt:
 > Do one thing every day that scares you.
 
 ### Inline Code
-We can include code text in our documents as well. We might need a '<p>' element here. 
+We can include code text in our documents as well. For example:
+```html
+<head>
+  <title>Example title for our code</title>
+</head>
+```
+Or, another example:
+I think we might need a `<p>` here. 
+
+### Task Lists
+We can include checklists as well.
+- [x] complete item 1
+- [x] complete item 2
+- [ ] incomplete item 1
+- [ ] incomplete item 2
+
+### Tables
+Here is an example for a table in markdown:
+First Header | Second Header | Third Header
+------ | ------ | ------
+Content from cell 1 | Cell 2 | Cell 3
+Content in first column | second column | third column
