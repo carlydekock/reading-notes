@@ -18,7 +18,7 @@ I'm Carly. I'm just learning to code, and am looking forward to the journey! You
 
 
 ## Carly's Reading Notes for Code Fellows
-### Table of Contents
-- [Markdown](markdown.md)
-- [Coder's Computer](coders-computer.md)
-- [Revisions in the Cloud](revisions.md)
+### Table of Contents - Code 102
+- [Markdown: Class 1](markdown.md)
+- [Coder's Computer: Class 2](coders-computer.md)
+- [Revisions in the Cloud: Class 3](revisions.md)
