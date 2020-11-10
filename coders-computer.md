@@ -3,14 +3,20 @@
 ## Different Classifications of Text Editors:
 In general, what is a text editor? A piece of software that allows you to write and manage text. 
 
-- Software that comes with your computer
-
+- Software that comes with your computer (these will be bare bones):
+  - TextEdit on Mac
+  - Notepad on Windows
+- Third party options (can be downloaded and installed)
+  - NotePad++: (*For Windows only*) 
+  - TextWrangler/BB Edit: (*For Mac only*)
+  - Visual Studio Code: (*For Windows, Mac, or Linux*)
+  - Atom: (*For Windows, Mac, or Linux*)
 
 ## Why It's Important for Software Developers to be Thoughtful About Selection:
-It's a very personal choice. 
-It's important for you to feel comfortable with the one you've chosen. 
-You need to enjoy using it, so choose whichever works best for you.
-This will be one of the most important tools!
+- It's a very personal choice. 
+- It's important for you to feel comfortable with the one you've chosen. 
+- You need to enjoy using it, so choose whichever works best for you.
+- This will be one of the most important tools!
 
 ### Things to Look for When Choosing:
 1. Code completion: displays possible suggesstions dependong on what you've typed
