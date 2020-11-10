@@ -47,7 +47,7 @@ Local Git repository has three components:
 1. Index: the area used for staging
 1. Head: Points to the most recent commit
 
-All files are either **tracked** (can be modified, unmodified or staged; part of the most recent file snapshot) or **untracked** (not in the last snapshot,; currently not in the staging area)
+All files are either **tracked** (can be modified, unmodified or staged; part of the most recent file snapshot) or **untracked** (not in the last snapshot; currently not in the staging area)
 
 ## Life Cycle of Files
 1. After you edit a file, Git flags it as modified
