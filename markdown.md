@@ -15,7 +15,7 @@ Bold can also be done two ways. Here is **bold** and here is __bold__ as well.
 
 Choose one of these styles for each, and stay consistent within your project. 
 
-We can also strikethrough any work like --this--. 
+We can also strikethrough any word like ~~this~~. 
 
 ### Lists
 
@@ -23,6 +23,8 @@ We can also strikethrough any work like --this--.
 There are three ways to do ordered lists. You can use these three ways:
 * List item 1
 * List item 2
+  * Nested list item 1
+    * Nested list item 2
 
 - List item 1
 - List item 2
@@ -35,6 +37,8 @@ There is one specific way to create ordered lists:
 1. List item 1
 1. List item 2
 1. List item 3
+   1. Nested list item 1
+      1. Nested list item 2
 
 ### Images
 We can also insert and display images using the following code:
