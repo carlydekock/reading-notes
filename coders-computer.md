@@ -36,4 +36,17 @@ IDE (Integrated Development Environment): a text editor, a file manager, a compi
 
 
 ## Basical Terminal Usage Notes
+Basics: Line 1 is prompt. After you enter a command, it will then run the command and output. Once it's finished, will present the prompt again. 
+Current location: ls (short for list). 
+At the top of the file structure is the root directory, denoted by a single slash (/).
+Absolute path: specify a location (file or directory) in relation to the root directory. They begin with a forward slash (/)
+Relative path: specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+Shortcuts:
+- (~) is a shortcut for home directory
+- . (.dot) is reference for current directory
+- .. (dotdot) is a reference to the parent directory
+Change directory: use the cd command
+Keep in mind: case sensitive, no spaces in names, anything inside quotes is considered a single item
+
+
 
