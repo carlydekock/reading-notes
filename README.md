@@ -9,5 +9,5 @@ I'm Carly. I'm just learning to code through Code Fellows and am looking forward
 - [Coder's Computer: Class 2](coders-computer.md)
 - [Revisions in the Cloud: Class 3](revisions.md)
 - [Structure web pages with HTML: Class 4](html.md)
-- [CSS](css.md)
-- [Intro to JavaScript](introtojs.md)
+- [CSS: Class 5](css.md)
+- [Intro to JavaScript: Class 6](introtojs.md)
