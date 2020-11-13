@@ -12,3 +12,5 @@ I'm Carly. I'm just learning to code through Code Fellows and am looking forward
 - [CSS: Class 5](css.md)
 - [Intro to JavaScript: Class 6a](introtojs.md)
 - [How Computers Work: Class 6b](computers.md)
+- [Programming with JavaScript: Class 7](programmingjs.md)
+- [Operators and Loops: Class 8](operatorsloops.md)
