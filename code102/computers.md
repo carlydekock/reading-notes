@@ -40,4 +40,6 @@
 - Operating system: the master program that manages how software uses the hardware of a computer
 
 
-[<==Back>](code102contents.md)
+[<==Back>](../code102contents.md)
+
+[Back to Home Page](../README.md)

@@ -62,4 +62,6 @@ All files are either **tracked** (can be modified, unmodified or staged; part of
 - `git stash apply` retrieves the hidden changes
 
 
-[<==Back](code102contents.md)
+[<==Back](../code102contents.md)
+
+[Back to Home Page](../README.md)

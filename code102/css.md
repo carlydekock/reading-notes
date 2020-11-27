@@ -53,4 +53,6 @@ There are three common ways to specify your color choices:
 - If you don't specify a color, the background is transparent
 
 
-[<==Back>](code102contents.md)
+[<==Back>](../code102contents.md)
+
+[Back to Home Page](../README.md)

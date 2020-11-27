@@ -72,4 +72,6 @@ Follow these principles when designing site navigation:
 - Escape characters are used to display characters in the broswer that are reserved by HTML code (& or " for example)
 
 
-[<==Back>](code102contents.md)
+[<==Back>](../code102contents.md)
+
+[Back to Home Page](../README.md)

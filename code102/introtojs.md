@@ -50,4 +50,6 @@
 1. Two variables are declared and assigned values on the same line, then one is declared and assigned a value on the next line
 
 
-[<==Back>](code102contents.md)
+[<==Back>](../code102contents.md)
+
+[Back to Home Page](../README.md)

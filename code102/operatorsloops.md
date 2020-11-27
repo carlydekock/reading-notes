@@ -37,4 +37,6 @@
 - Loop will continue to run as long as the condition (i < 10 for example) set in the parenthesis is true
 
 
-[<==Back>](code102contents.md)
+[<==Back>](../code102contents.md)
+
+[Back to Home Page](../README.md)
