@@ -3,13 +3,27 @@
 ## About Me
 I'm Carly. I'm just learning to code through Code Fellows and am looking forward to the journey! You can see my GitHub page [here](https://github.com/carlydekock). I previously worked as a Recruiter, but wanted to try something new and learn to code in search of a potential career change. In my spare time I enjoy skiing, surfing, mountain biking and gardening.
 
+## This site
+These are my reading notes from Code 201 class at Code Fellows, where I'll log what I'm learning and notes to remember.
+
 ## Table of Contents - Code 201
+1. Reading 1
+1. Reading 2
+1. Reading 3
+1. Reading 4
+1. Reading 5
+1. Reading 6
+1. Reading 7
+1. Reading 8
+1. Reading 9
+1. Reading 10
+1. Reading 11
+1. Reading 12
+1. Reading 13
+1. Reading 14
+1. Reading 15
 
 
 
 
-
-
-
-
-## Code 102 notes [here](code102contents.md)
+## My previous Code 102 notes are [here](code102contents.md)
