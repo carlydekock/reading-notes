@@ -7,7 +7,7 @@ I'm Carly. I'm just learning to code through Code Fellows and am looking forward
 These are my reading notes from Code 201 class at Code Fellows, where I'll log what I'm learning and notes to remember.
 
 ## Table of Contents - Code 201
-1. Reading 1
+1. [Reading 1: Introductory HTML and JavaScript](class-01.md)
 1. Reading 2
 1. Reading 3
 1. Reading 4
