@@ -61,8 +61,8 @@
 - Data types: numeric, string, and boolean
 - Once you have assigned a value to a variable, you can then change what is stored in the variable later in the same script. 
 - Rules for naming variables:
-  1. Name must begin with a letter, $ or _. **Cannot* start with a number. 
-  1. Name can contain letters, numbers, $ or _. **Cannot* use a - or period. 
+  1. Name must begin with a letter, $ or _. *Cannot* start with a number. 
+  1. Name can contain letters, numbers, $ or _. *Cannot* use a - or period. 
   1. Cannot use keywords or reserved words.
   1. Variables are case sensitive.
   1. Use a name that describes the type of information that the variable stores. 
