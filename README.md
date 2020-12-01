@@ -8,7 +8,7 @@ These are my reading notes from Code 201 class at Code Fellows, where I'll log w
 
 ## Table of Contents - Code 201
 1. [Reading 1: Introductory HTML and JavaScript](class-01.md)
-1. Reading 2
+1. [Reading 2: Basics of HTML, CSS & JS](class-02.md)
 1. Reading 3
 1. Reading 4
 1. Reading 5
