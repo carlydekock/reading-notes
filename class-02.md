@@ -91,20 +91,20 @@
   - Decisions: using the results of evaluations, you can decide which path your script should go down
   - Loops: want to perform the same set of steps repeatedly
 - Comparison operators: evaluate a situation by comparing one value in the script to what you expect it might be, the result will be a boolean true or false. Types of operators:
-  - Equal to: ==
-  - Strict equal to: ===
-  - Not equal: !=
-  - Strict not equal to: !==
-  - Greater than: >
-  - Less than: <
-  - Greater than or equal to: >=
-  - Less than or equal to: <=
+  - Equal to: ```==```
+  - Strict equal to: ```===```
+  - Not equal: ```!=```
+  - Strict not equal to: ```!==```
+  - Greater than: ```>```
+  - Less than: ```<```
+  - Greater than or equal to: ```>=```
+  - Less than or equal to: ```<=```
 - In any condition there is usually one operator (options above) and two operands (values or variables). Expressions are often enclosed in parenthesis. For example: ```(score >= pass)``` score and pass are operands, and >= is the operator. 
 - An operand does not have to be a single value or variable name, it can be an expression because each expression evaluates into a single value. 
 - Logical operators: usually return a single value of true or false, allow you to compare the results of more than one comparison operator. Types of logical operators:
-  - Logical and: &&
-  - Logical or: ||
-  - Logical not: !
+  - Logical and: ```&&```
+  - Logical or: ```||```
+  - Logical not: ```!```
 - If statements: evaluates or checks a condition, if the condition is true, any statements in the subsequent code block are exectued.
 - If else statements: if else checks a condition, if it resolves to true the first code block is executed, if it resolves to false the second code block is run instead.
 
