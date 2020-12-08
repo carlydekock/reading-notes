@@ -13,7 +13,7 @@ These are my reading notes from Code 201 class at Code Fellows, where I'll log w
 1. [Reading 4: HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 1. [Reading 5: HTML Images, CSS Color & Text](class-05.md)
 1. [Reading 6: Problem Domain, Objects, and the DOM](class-06.md)
-1. Reading 7
+1. [Reading 7: Object-Oriented Programming, HTML Tables](class-07.md)
 1. Reading 8
 1. Reading 9
 1. Reading 10
