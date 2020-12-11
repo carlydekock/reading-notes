@@ -16,7 +16,7 @@ These are my reading notes from Code 201 class at Code Fellows, where I'll log w
 1. [Reading 7: Object-Oriented Programming, HTML Tables](class-07.md)
 1. [Reading 8: CSS Layout](class-08.md)
 1. [Reading 9: Forms and JS Events](class-09.md)
-1. Reading 10
+1. [Reading 10: JS Error Handling and Debugging](class-10.md)
 1. Reading 11
 1. Reading 12
 1. Reading 13
