@@ -19,7 +19,7 @@ These are my reading notes from Code 201 class at Code Fellows, where I'll log w
 1. [Reading 10: JS Error Handling and Debugging](class-10.md)
 1. [Reading 11: Audio, Video, and Images](class-11.md)
 1. [Reading 12: Chart.js, Canvas](class-12.md)
-1. Reading 13
+1. [Reading 13: Local Storage](class-13.md)
 1. Reading 14
 1. Reading 15
 
