@@ -28,14 +28,14 @@
 - Animations can set multiple points of transition upon different keyframes
 
 ### Transitions
-- For a transition to take place, an element must have a change in state and different styles must be identified for each state. Easiest way for determing styles for different states is by using :hover, :focus, :active, and :target pseudo-classes
+- For a transition to take place, an element must have a change in state and different styles must be identified for each state. Easiest way for determining styles for different states is by using :hover, :focus, :active, and :target pseudo-classes
 - Four transition properties in total:
   1. ```transition-property```
   1. ```transition-duration```
   1. ```transition-timing-function```
   1. ```transition-delay```
 - ```transition-property```: determines exactly what properties will be altered. If multiple properties need to be transitioned they may be comma separated, or the keyword value all may be used to transition all properties of an element
-- Not all properties can be transitioned, only properties that have an identifiable hallfway point
+- Not all properties can be transitioned, only properties that have an identifiable halfway point
 - ```transition-duration```: duration in which a transition takes place, value can be set using general timing values including seconds (s) and milliseconds (ms), and can also be in fractional measurements
 - ```transition-timing-function```: used to set the speed in which a transition will move, a few common values are linear, ease-in, ease-out, ease-in-out
   - linear: identifies a transition moving in a constant speed from one state to another
@@ -51,7 +51,7 @@
 - Need to declare ```animation-name``` and ```animation-duration```
 - Once you have set the name and duration, animations behave similarly to transitions. They include a duration, timing function, and delay if desired
 - Customizing animations can be used to declare the number of times an animation runs, as well as the direction in which the animation completes
-- Animation iteration: ```animation-iteration-count``` can include either an integer (specific number of times to repeat) or inifite keyword
+- Animation iteration: ```animation-iteration-count``` can include either an integer (specific number of times to repeat) or infinite keyword
 - Animation direction: ```animation-direction``` which can have values of normal, reverse, alternate, and alternate-reverse
 - Animation play state: ```animation-play-state``` allows an animation to be played or paused using the running and paused keywords
 - Animation fill mode: ```animation-fill-mode``` identifies how an element should be styled either before, after, or before and after an animation is run. Accepts four keyword values: none, forwards, backwards, and both
@@ -67,8 +67,8 @@
 1. Inset border: example is a ghost button or button with no background and a heavy border. Can transition in a border using an inset box shadow.
 
 ## What Google Learned - Psychological Safety
-- Group norms typicaly override individual proclivities and encourage deference to the team.
-- What distinguishes the good team from the dysfunctional groups was how teammates treated one another. The right norms could raise a group's collective intelligence, wheras the wrong norms could hobble a team.
+- Group norms typically override individual proclivities and encourage deference to the team.
+- What distinguishes the good team from the dysfunctional groups was how teammates treated one another. The right norms could raise a group's collective intelligence, whereas the wrong norms could hobble a team.
 - Equality in distribution of conversational turn-taking.
 - High average social sensitivity - skilled at intuiting how others felt based on their tone of voice, expressions, and other nonverbal cues.
 - Psychological safety: sense of confidence that the team will not embarrass, reject or punish someone for speaking up.
