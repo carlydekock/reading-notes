@@ -30,6 +30,6 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 2: jQuery, Events, and the DOM](class-02-301.md)
 1. [Reading 3: Flexbox and Templating](class-03-301.md)
 1. [Reading 4: Responsive Web Design and Regular Expressions](class-04-301.md)
+1. [Reading 5: Heroku Deployment](class-05-301.md)
 
 ## Code 401 - Advanced Software Development
-
