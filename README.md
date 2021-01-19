@@ -32,5 +32,6 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 4: Responsive Web Design and Regular Expressions](class-04-301.md)
 1. [Reading 5: Heroku Deployment](class-05-301.md)
 1. [Reading 6: Node, Express, and APIs](class-06-301.md)
+1. [Reading 7: APIs continued](class-07-301.md)
 
 ## Code 401 - Advanced Software Development
