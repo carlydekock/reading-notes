@@ -38,5 +38,6 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 10: The Call Stack](class-10-301.md)
 1. [Reading 11: EJS](class-11-301.md)
 1. [Reading 12: Components](class-12-301.md)
+1. [Reading 13: Update/Delete](class-13-301.md)
 
 ## Code 401 - Advanced Software Development
