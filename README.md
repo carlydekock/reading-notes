@@ -44,3 +44,4 @@ Code 102 reading notes are [here](code102contents.md).
 
 ## Code 401 - Advanced Software Development
 1. [Reading 1: Node Ecosystem, TDD, CI/CD](class-01-401.md)
+1. [Reading 2: Express](class-02-401.md)
