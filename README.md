@@ -43,3 +43,4 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 15: Diversity & Inclusion in the Tech Industry](class-15-301.md)
 
 ## Code 401 - Advanced Software Development
+1. [Reading 1: Node Ecosystem, TDD, CI/CD](class-01-401.md)
