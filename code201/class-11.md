@@ -58,4 +58,4 @@
   - The .fla file is exported to .swf format to use in a page
   - Then the .swf file is used in your web page using JavaScript
 
-[<==Back>](README.md)
+[<==Back>](../README.md)

@@ -70,4 +70,4 @@
 - Why flow matters? The flow of events matters when yourcode has event handlers on an element and one of its ancestor or descendant elements
 - When an event occurs, the event object tells you information about the event and the element it happened upon
 
-[<==Back>](README.md)
+[<==Back>](../README.md)

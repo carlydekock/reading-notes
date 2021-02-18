@@ -40,4 +40,4 @@
 - Each origin gets 5MB by default
 - If you exceed your storage quota, "QUOTA_EXCEEDED_ERR" is the exception that will get thrown
 
-[<==Back>](README.md)
+[<==Back>](../README.md)

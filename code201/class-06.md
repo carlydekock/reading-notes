@@ -142,4 +142,4 @@ Two different approaches:
 - Adding content: use a DOM method to create new content one node at a time and store it in a variable, then another DOM method is used to attach it to the right place in the DOM tree
 - Removing content: can remove any element using a single method
 
-[<==Back>](README.md)
+[<==Back>](../README.md)

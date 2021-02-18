@@ -61,4 +61,4 @@
   - Catch: if try code block throws an exception, catch steps in with an alternative set of code. Has one parameter, the error object.
   - Finally: contents of the finally code block will run either way, whether the try block succeeded or failed. 
 
-[<==Back>](README.md)
+[<==Back>](../README.md)

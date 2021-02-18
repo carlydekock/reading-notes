@@ -81,4 +81,4 @@
   - ```direction = value```: directionality, possible values are ltr, rtl, inherit
   - ```measureText()``` returns object containing width in pixels that the specified text will be when drawn in the current text style
 
-[<==Back>](README.md)
+[<==Back>](../README.md)

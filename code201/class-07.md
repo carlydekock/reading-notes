@@ -61,4 +61,4 @@
     - Math objects: Math.PI(), Math.round(), Math.sqrt(n), Math.ceil(), Math.floor(), Math.random()
     - Date and time objects: to work with dates, create an instance of the Date object
 
-[<==Back>](README.md)
+[<==Back>](../README.md)

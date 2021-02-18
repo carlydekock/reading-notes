@@ -25,4 +25,4 @@
 - Liquid layout: stretches and contracts as the user increases or decreases size of browser window (usually use percentages)
 - Layout grid: a good tool to visualize/plan the placement and arrangement of content on the page
 
-[<==Back>](README.md)
+[<==Back>](../README.md)
