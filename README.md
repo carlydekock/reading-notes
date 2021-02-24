@@ -50,3 +50,5 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 5: Linked Lists](code401/class-05-401.md)
 1. [Reading 6: Authentication](code401/class-06-401.md)
 1. [Reading 7: Bearer Authorization](code401/class-07-401.md)
+1. [Reading 8: Access Control(ACL)](code401/class-08-401.md)
+
