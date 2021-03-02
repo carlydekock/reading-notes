@@ -53,3 +53,5 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 8: Access Control(ACL)](code401/class-08-401.md)
 1. [Reading 10: Stacks and Queues](code401/class-10-401.md)
 1. [Reading 11: Event Driven Applications](code401/class-11-401.md)
+1. [Reading 12: Socket.io](code401/class-12-401.md)
+
