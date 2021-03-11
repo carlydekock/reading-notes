@@ -60,3 +60,4 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 16: AWS Cloud Servers](code401/class-16-401.md)
 1. [Reading 17: AWS S3 and Lambda](code401/class-17-401.md)
 1. [Reading 18: AWS API, Dynamo and Lambda](code401/class-18-401.md)
+1. [Reading 19: AWS Events](code401/class-19-401.md)
