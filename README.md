@@ -66,3 +66,4 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 28: Component Composition](code401/class-28-401.md)
 1. [Reading 29: Routing](code401/class-29-401.md)
 1. [Reading 30: Hashtables](code401/class-30-401.md)
+1. [Reading 31: Hooks API](code401/class-31-401.md)
