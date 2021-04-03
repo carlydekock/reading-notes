@@ -71,3 +71,4 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 33: Context API](code401/class-33-401.md)
 1. [Reading 34: ```<Login />``` and ```<Auth />```](code401/class-34-401.md)
 1. [Reading 35: Graphs](code401/class-35-401.md)
+1. [Reading 36: Application State with Redux](code401/class-35-401.md)
