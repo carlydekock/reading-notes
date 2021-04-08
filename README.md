@@ -74,3 +74,4 @@ Code 102 reading notes are [here](code102contents.md).
 1. [Reading 36: Application State with Redux](code401/class-36-401.md)
 1. [Reading 37: Redux-Combined Reducers](code401/class-37-401.md)
 1. [Reading 38: Redux-Asynchronous Actions](code401/class-38-401.md)
+1. [Reading 39: Redux-Additional Topics](code401/class-39-401.md)
